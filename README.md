@@ -1,4 +1,4 @@
-# WanderVista
+Travel Mania
 
 > Modern travel & tourism platform built with Next.js 14, TypeScript, Tailwind CSS, and a RAG-powered FastAPI chatbot backend.
 
